@@ -11,7 +11,7 @@ def solution():
         number2 = float(input("It can't be zero. Again enter 2nd number:"))
     sum = number1 + number2
     division = number1 / number2
-    print(f"")
+    print(f"sum = {number1} {sum}")
     pass
 
 
